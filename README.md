@@ -134,14 +134,3 @@ the version at either level.
 We also have a tag called `edge` which will always be the latest commit on `master`, and `dev` which is the last commit on the `dev` branch.
 From time to time we can also have various `beta` branches and tags, but using either dev or beta tags is probably not for the average user
 and you should expect there to be occasional breakage or even the deletion of the tags upstream.
-
-## Please help out (about:maintenance)
-This image was created for my own use, but sharing is caring, so it had to be open source.
-It has now gotten quite popular, and that's great! But keeping it up to date, providing support, fixes
-and new features take time. If you feel that you're getting a good tool and want to support it, there are a couple of options:
-
-A small montly amount through [![Donate with Patreon](images/patreon.png)](https://www.patreon.com/haugene) or
-a one time donation with [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73XHRSK65KQYC)
-
-All donations are greatly appreciated! Another great way to contribute is of course through code.
-A big thanks to everyone who has contributed so far!
